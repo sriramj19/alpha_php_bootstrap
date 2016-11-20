@@ -1,0 +1,17 @@
+.my-bar
+{
+    border: 2px solid blue; //blue color has no effect if panel-default enabled
+    padding:  25px;
+    margin-top: 250px
+}
+
+.my-form
+{
+    margin-top:10px;
+    margin-bottom:10px
+}
+body
+{
+    background-image: url("../assets/bg_image.jpg");
+    background-size: 100%
+}
